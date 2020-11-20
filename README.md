@@ -1,4 +1,5 @@
 # Cool OS Developed By Chinese
+The following operating system kernels are all developed by Chinese developers (Ranking by name)
 
 - [AliOS-Things](https://www.alios.cn/things) IoT-OS Build by Alibaba.inc
 - [LiteOS](https://www.huawei.com/minisite/liteos/cn/) IoT-OS Build by Huawei
