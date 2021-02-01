@@ -2,6 +2,7 @@
 The following operating system kernels are all developed by Chinese developers (Ranking by name)
 
 - [AliOS-Things](https://www.alios.cn/things) IoT-OS Build by Alibaba.inc
+- [EwokOS](https://github.com/MisaZhu/EwokOS) Microkernel OS by Misa
 - [LiteOS](https://www.huawei.com/minisite/liteos/cn/) IoT-OS Build by Huawei
 - [RT-Thread](https://www.rt-thread.io/) IoT-OS Build by RtThread
 - [SynestiaOS](https://synestiaos.org/home) IoT-OS Build by SynestiaOS
