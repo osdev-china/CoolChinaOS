@@ -7,3 +7,4 @@ The following operating system kernels are all developed by Chinese developers (
 - [RT-Thread](https://www.rt-thread.io/) IoT-OS Build by RtThread
 - [SynestiaOS](https://synestiaos.org/home) IoT-OS Build by SynestiaOS
 - [YiYiYa](https://github.com/evilbinary/YiYiYa) YiYiYa is an os for fun
+- [OS-One](https://github.com/iBreaker/OS-One) OS-One Build by RespberryPi
