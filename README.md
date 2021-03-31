@@ -8,3 +8,5 @@ The following operating system kernels are all developed by Chinese developers (
 - [SynestiaOS](https://synestiaos.org/home) IoT-OS Build by SynestiaOS
 - [YiYiYa](https://github.com/evilbinary/YiYiYa) YiYiYa is an os for fun
 - [OS-One](https://github.com/iBreaker/OS-One) OS-One Build by RespberryPi
+- [BookOS](https://github.com/hzcx998/BookOS) A PC OS to have fun
+- 
